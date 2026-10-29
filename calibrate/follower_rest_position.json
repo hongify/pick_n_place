@@ -1,0 +1,29 @@
+{
+  "created_unix_time": 1783508532.7856889,
+  "description": "Follower rest position captured before SO-101 ROS2 bridge publish/teleop loop starts.",
+  "follower_id": "follower_calibrate",
+  "joint_order": [
+    "shoulder_pan",
+    "shoulder_lift",
+    "elbow_flex",
+    "wrist_flex",
+    "wrist_roll",
+    "gripper"
+  ],
+  "lerobot_action": {
+    "elbow_flex.pos": 92.52747252747253,
+    "gripper.pos": 8.103727714748784,
+    "shoulder_lift.pos": -101.71428571428571,
+    "shoulder_pan.pos": -12.659340659340659,
+    "wrist_flex.pos": 65.97802197802197,
+    "wrist_roll.pos": 6.9010989010989015
+  },
+  "lerobot_position": {
+    "elbow_flex": 92.52747252747253,
+    "gripper": 8.103727714748784,
+    "shoulder_lift": -101.71428571428571,
+    "shoulder_pan": -12.659340659340659,
+    "wrist_flex": 65.97802197802197,
+    "wrist_roll": 6.9010989010989015
+  }
+}
